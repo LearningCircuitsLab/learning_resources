@@ -7,6 +7,10 @@ https://dev.to/glasskube/the-guide-to-git-i-never-had-1450
 
 https://dev.to/prodevopsguytech/understanding-version-control-a-beginners-guide-to-git-and-github-54i9
 
+**Python advanced**
+
+https://software-skills.neuroinformatics.dev/
+
 **Deep learning**
 
 https://course.fast.ai/
