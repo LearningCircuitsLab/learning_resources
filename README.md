@@ -15,3 +15,7 @@ https://software-skills.neuroinformatics.dev/
 
 https://course.fast.ai/
 
+**Github repos**
+
+https://dev.to/pwd9000/github-repository-best-practices-23ck
+
