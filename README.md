@@ -19,7 +19,3 @@ https://course.fast.ai/
 
 https://dev.to/pwd9000/github-repository-best-practices-23ck
 
-**Systems neuroscience**
-
-https://software-skills.neuroinformatics.dev/index.html
-
